@@ -1,2 +1,2 @@
-# my-second-repo
-második repom
+ez életem második github repoja
+
